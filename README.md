@@ -13,9 +13,9 @@ I am **Eduardo Donato Jr.**, with a flair for coding and database management ski
 ---
 
 ### 📜 Certifications
-* [NoSQL and DBaaS 101](https://education.oracle.com/nosql-and-dbaas-101/pFamily_640)
-* [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://education.oracle.com/oracle-cloud-data-management-2023-certified-foundations-associate/pFamily_634)
-* [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://education.oracle.com/oracle-cloud-infrastructure-2023-certified-foundations-associate/pFamily_627)
+* [NoSQL and DBaaS 101](https://education.oracle.com/learning-explorer)
+* [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://education.oracle.com/oracle-cloud-data-management-foundations-associate/pFamily_634)
+* [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://education.oracle.com/oracle-cloud-infrastructure-foundations-associate/pFamily_627)
 
 ---
 
@@ -27,7 +27,7 @@ I am **Eduardo Donato Jr.**, with a flair for coding and database management ski
 ---
 
 ### 📫 Reach Me At:
-* **LinkedIn:** [Eduardo Donato Jr. LinkedIn Profile](https://www.linkedin.com/pub/dir?first=Eduardo&last=Donato)
+* **LinkedIn:** [Eduardo Donato Jr. LinkedIn Profile](https://www.linkedin.com/in/eduardo-jr-donato-08a69440a/)
 * **Email:** [eduardodonatojr17@gmail.com](mailto:eduardodonatojr17@gmail.com)
 
 ---
